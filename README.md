@@ -35,3 +35,7 @@ Return a single integer, the absolute difference between the sums of the diagona
 10 8 -12
 
 ```
+- Output:
+```
+15
+```
