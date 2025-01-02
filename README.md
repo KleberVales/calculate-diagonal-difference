@@ -18,3 +18,8 @@ Given a square matrix n x n:
 ## Output Format:
 
 Return a single integer, the absolute difference between the sums of the diagonals.
+
+## Constraints:
+
+1. The matrix will always be square.
+2. The matrix size (n) and elements are within reasonable limits to compute sums directly.
