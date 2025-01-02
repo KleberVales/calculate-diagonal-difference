@@ -14,3 +14,7 @@ Given a square matrix n x n:
 
 1. The first line contains a single integer, n, the size of the square matrix.
 2. The next n lines each contain n space-separated integers, representing rows of the matrix.
+
+## Output Format:
+
+Return a single integer, the absolute difference between the sums of the diagonals.
