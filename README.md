@@ -23,3 +23,15 @@ Return a single integer, the absolute difference between the sums of the diagona
 
 1. The matrix will always be square.
 2. The matrix size (n) and elements are within reasonable limits to compute sums directly.
+
+## Example:
+
+- Input:
+
+```
+3
+11 2 4
+4 5 6
+10 8 -12
+
+```
